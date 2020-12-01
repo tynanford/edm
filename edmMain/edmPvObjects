@@ -1,2 +1,2 @@
 1
-epicsPv /home/tford/epics/extensions/lib/linux-x86_64/libEpics.so epics
+epicsPv $(EPICS_EXTENSIONS)/lib/linux-x86_64/libEpics.so epics
